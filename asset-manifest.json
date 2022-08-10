@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proyecto-william/static/css/main.a20ce99f.css",
+    "main.js": "/proyecto-william/static/js/main.aadb8af0.js",
+    "static/js/787.711e13f6.chunk.js": "/proyecto-william/static/js/787.711e13f6.chunk.js",
+    "index.html": "/proyecto-william/index.html",
+    "main.a20ce99f.css.map": "/proyecto-william/static/css/main.a20ce99f.css.map",
+    "main.aadb8af0.js.map": "/proyecto-william/static/js/main.aadb8af0.js.map",
+    "787.711e13f6.chunk.js.map": "/proyecto-william/static/js/787.711e13f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20ce99f.css",
+    "static/js/main.aadb8af0.js"
+  ]
+}
